@@ -1,7 +1,5 @@
 package com.clases;
 
-import javax.swing.*;
-
 public class Empresas {
     private String tipDoc;
     private String documento;

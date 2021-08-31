@@ -2,7 +2,7 @@ package com.clases;
 
 import java.util.List;
 
-public class Clientes {
+public class Clientes extends Personas{
     private String nombre;
     private String telefono;
     private String direccion;
